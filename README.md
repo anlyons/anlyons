@@ -8,9 +8,6 @@
 I'm a bioengineer passionate about coding for medical, pharmaceutical, and biological engineering applications. Let's build a healthier world together!
 
 ## Project Highlights
-- AI agents for
-- ABC
-- DEF
 <!--
 Check out my [website](https://anlyons.github.io) to see full explanations
 -->
