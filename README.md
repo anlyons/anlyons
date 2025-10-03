@@ -1,6 +1,6 @@
 ## Hi there, I'm Anne 👋
 ![Last Updated](https://img.shields.io/badge/Last_Updated-3.Oct.2025-red)
-[![Website](https://img.shields.io/badge/Website-green)](https://vidura.dev)
+[![Website](https://img.shields.io/badge/Website-green)](https://www.linkedin.com/in/anne-lyons-bioe/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anlyons.anlyons)
 
 
