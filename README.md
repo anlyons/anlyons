@@ -4,8 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last_Updated-3.Oct.2025-red)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anlyons.anlyons)
 
-
-I'm a bioengineer passionate about coding for medical, pharmaceutical, and biological engineering applications. Let's build a healthier world together!
+Let's use data to build cool things! A bioengineer by training, I like using my interdisciplinary mindset to explore diverse projects - check out my work below.
 
 ## Project Highlights
 <!--
