@@ -11,7 +11,7 @@ Let's use data to build cool things! A bioengineer by training, I like using my 
 Check out my [website](https://anlyons.github.io) to see full explanations
 -->
 ## In the Pipeline
-- KARkey: ![Abstract](https://www.cell.com/biophysj/fulltext/S0006-3495(24)03369-1) ![Read-the-docs](anlyons.github.io/KARkey/) A Python-based computational platform accelerating kinase biosensor engineering
+- KARkey: ![Abstract](https://www.cell.com/biophysj/fulltext/S0006-3495(24)03369-1) A Python-based computational platform accelerating kinase biosensor engineering
 - ROInavigator: MATLAB-based UI + scripts for live cell fluorescent biosensor image analysis and signal processing
 
 ## Let's Collaborate
