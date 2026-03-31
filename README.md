@@ -6,7 +6,7 @@
 
 Let's use data to build cool things! A bioengineer by training, I like using my interdisciplinary mindset to explore diverse projects - check out my work below.
 
-## Project Highlights
+<!-- ## Project Highlights
 <!--
 Check out my [website](https://anlyons.github.io) to see full explanations
 -->
